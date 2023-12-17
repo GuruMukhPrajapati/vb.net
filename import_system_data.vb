@@ -1,5 +1,3 @@
-' Gambas class file
-
 Import System.Data
 Import System.Data.OleDb
 
