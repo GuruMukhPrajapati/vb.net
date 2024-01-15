@@ -1,0 +1,10 @@
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\bin\Debug\question4.exe.config
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\bin\Debug\question4.exe
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\bin\Debug\question4.pdb
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\bin\Debug\question4.xml
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\obj\Debug\question4.Form1.resources
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\obj\Debug\question4.Resources.resources
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\obj\Debug\question4.vbproj.GenerateResource.Cache
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\obj\Debug\question4.exe
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\obj\Debug\question4.xml
+c:\users\stm\videos\documents\visual studio 2012\Projects\question4\question4\obj\Debug\question4.pdb
