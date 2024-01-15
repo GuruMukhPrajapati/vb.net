@@ -1,0 +1,10 @@
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\bin\Debug\que10.exe.config
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\bin\Debug\que10.exe
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\bin\Debug\que10.pdb
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\bin\Debug\que10.xml
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\obj\Debug\que10.Form1.resources
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\obj\Debug\que10.Resources.resources
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\obj\Debug\que10.vbproj.GenerateResource.Cache
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\obj\Debug\que10.exe
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\obj\Debug\que10.xml
+c:\users\stm\videos\documents\visual studio 2012\Projects\que10\que10\obj\Debug\que10.pdb

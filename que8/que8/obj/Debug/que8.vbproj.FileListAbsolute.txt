@@ -1,0 +1,11 @@
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\bin\Debug\que8.exe.config
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\bin\Debug\que8.exe
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\bin\Debug\que8.pdb
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\bin\Debug\que8.xml
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.Form1.resources
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.Resources.resources
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.vbproj.GenerateResource.Cache
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.exe
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.xml
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.pdb
+c:\users\stm\videos\documents\visual studio 2012\Projects\que8\que8\obj\Debug\que8.Form2.resources
